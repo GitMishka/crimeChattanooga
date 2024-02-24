@@ -1,0 +1,187 @@
+CHARGE_NAME,CHARGE_TYPE,CHARGE_CLASSIFICATION
+Accessory After The Fact,Other,Class E Felony
+Aggravated Arson,Felony Property,Class A Felony
+Aggravated Assault,Violent,Class C Felony
+Aggravated Burglary,Felony Property,Class C Felony
+Aggravated Child Abuse,Violent,Class B Felony
+Aggravated Child Rape,Violent,Class A Felony
+Aggravated Criminal Trespassing,Misdemeanor Property,Class B Misdemeanor
+Aggravated Cruelty to Animals,Violent,Class E Felony
+Aggravated Domestic Assault,Violent,Class C Felony
+Aggravated Kidnapping,Violent,Class B Felony
+Aggravated Rape,Violent,Class A Felony
+Aggravated Rioting,Public Order,Class E Felony
+Aggravated Robbery,Felony Property,Class B Felony
+Aggravated Sexual Battery,Violent,Class B Felony
+Aggravated Sexual Exploitation of A Minor,Violent,Class B Felony
+Aggravated Stalking,Harassment,Class E Felony
+Alteration of Item's Permanent Number,Fraud,Class A Misdemeanor
+Altering or Falsifying Title,Fraud,Class E Felony
+Altering Registration,Fraud,Class E Felony
+Arson,Felony Property,Class C Felony
+Assault,Violent,Class A Misdemeanor
+Assault (First Responder),Violent,Class C Felony
+Attempted Aggravated Assault,Violent,Class C Felony
+Attempted Burglary,Felony Property,Class D Felony
+Attempted Criminal Homicide,Homicide,Class E Felony
+Attempted First Degree Murder,Homicide,Class A Felony
+Attempted Possession of Controlled Substance for Resale (Schedule 2),Drug Offense,Class C Felony
+Attempted Robbery,Felony Property,Class C Felony
+Blocking or Impeding Traffic,Public Order,Class A Misdemeanor
+Booked for Previous Charges or Other Reason(s),Previous Charges or Other Reason,N/A
+Bribery of Public Servant,Fraud,Class B Felony
+Burglary,Felony Property,Class D Felony
+Setting Fire to Personal Property or Land,Misdemeanor Property,Class A Misdemeanor
+Car Jacking,Violent,
+Carrying Weapons on School Property,Weapons (Non-violent),Class E Felony
+Child Abuse and Neglect,Violent,Class A Misdemeanor
+Child Endangerment,Violent,Class A Misdemeanor
+Rape of a Child,Violent,Class A Felony
+Child Support Nonpayment,Child Support,Class A Misdemeanor
+Civil Rights Intimidation,Harassment,Class D Felony
+Conspiracy to Make False Reports,Other,Class D Felony
+Contempt of Court,Other,Class C Misdemeanor
+Contraband In Penal Institutions,Other,Class D Felony
+Contributing to the Delinquency of a Minor,Other,N/A
+Criminal Conspiracy,Other,N/A
+Criminal Homicide,Homicide,Class E Felony
+Criminal Impersonation,Fraud,Class B Misdemeanor
+Criminal Simulation,Fraud,Class E Felony
+Criminal Trespassing,Public Order,Class C Misdemeanor
+Criminally Negligent Homicide,Homicide,Class E Felony
+Cruelty to Animals,Violent,Class A Misdemeanor
+Custodial Interference,Violent,Class E Felony
+Deceptive Business Practices,Fraud,Class B Misdemeanor
+Disorderly Conduct,Public Order,Class C Misdemeanor
+Dispensing Alcoholic Beverage,Public Order,Class C Misdemeanor
+Dog At Large,Public Order,Class B Misdemeanor
+Domestic Assault,Violent,Class A Misdemeanor
+Drag Racing,Public Order,Class A Misdemeanor
+Drinking Underage,Alcohol Offenses,Class A Misdemeanor
+Driver Not In Possession of License,Traffic,Class C Misdemeanor
+Drivers to Excercise Due Care,Traffic,Class C Misdemeanor
+Driving Left of Center Line,Traffic,Class C Misdemeanor
+"Driving on Revoked, Suspended, or Canceled License",Traffic,Class B Misdemeanor
+Driving Under the Influence,Alcohol Offenses,Class A Misdemeanor
+Driving Under the Influence While Underage,Alcohol Offenses,Class A Misdemeanor
+Driving Without Valid License,Traffic,Class C Misdemeanor
+Election Interference,Other,Class A Misdemeanor
+Escape,Other,N/A
+Evading Arrest,Other,Class A Misdemeanor
+Expired or Invalid Registration,Traffic,Class C Misdemeanor
+Failure to Appear,Failure to Appear,Class A Misdemeanor
+Failure to Yield,Traffic,Class B Misdemeanor
+False Imprisonment,Violent,Class A Misdemeanor
+Falsifying Results of A Drug Test,Fraud,Class A Misdemeanor
+Reckless Endangerment With Deadly Weapon,Traffic,Class E Felony
+Financial Responsibility,Traffic,Class C Misdemeanor
+First Degree Murder,Homicide,Class A Felony
+Fishing Without a License,Public Order,Class C Misdemeanor
+Forgery,Fraud,Class E Felony
+Fraudulent Transfer of Motor Vehicle,Fraud,Class E Felony
+Fraudulent Use of Credit or Debit Card,Fraud,Class A Misdemeanor
+"Fraudulent Use of Credit or Debit Card (Over $1,000)",Fraud,Class E Felony
+Fugitive Warrant,Fugitive Warrant,N/A
+Harassment,Harassment,Class A Misdemeanor
+Harboring a Runaway,Other,Class A Misdemeanor
+Ignition Interlock Violation,Supervision Violation,Class B Misdemeanor
+Improper Turn,Traffic,Class C Misdemeanor
+Improper Use of 911,Public Order,Class C Misdemeanor
+Incest,Violent,Class C Felony
+Indecent Exposure,Harassment,Class B Misdemeanor
+Inmate In Transit,Other,N/A
+Interference With Emergency Calls,Public Order,Class A Misdemeanor
+Joyriding,Misdemeanor Property,Class A Misdemeanor
+Kidnapping,Violent,Class C Felony
+Leaving the Scene of An Accident,Traffic,Class B Misdemeanor
+Leaving The Scene of An Accident (With Damage to Vehicle),Traffic,Class A Misdemeanor
+Making False Reports,Other,Class D Felony
+Manufacturing of Meth,Drug Offense,Class B Felony
+Misapplication of Contractor Payments,Fraud,Class E Felony
+Money Laundering,Fraud,Class B Felony
+null,None Listed,N/A
+Obstructing a Highway,Public Order,Class A Misdemeanor
+Obstruction of Justice,Other,Class B Misdemeanor
+Open Container Law Violation,Traffic,Class C Misdemeanor
+Operation of Unlawful Chop Shop,Fraud,Class D Felony
+Passing School Bus,Traffic,Class A Misdemeanor
+Passing Worthless Checks,Fraud,Class A Misdemeanor
+Permitting or Facilitating Escape,Other,Class E Felony
+Photographing Without Consent,Public Order,Class A Misdemeanor
+Possessing A Firearm With Intent to Go Armed,Weapons (Non-violent),Class C Misdemeanor
+Possession of a Stolen Firearm,Misdemeanor Property,Class E Felony
+Possession of Burglary Tools,Misdemeanor Property,Class A Misdemeanor
+Possession of Catalytic Converters,Misdemeanor Property,Class A Misdemeanor
+Possession of Controlled Substance,Drug Offense,Class A Misdemeanor
+Possession of Controlled Substance for Resale,Drug Offense,Class E Felony
+Possession of Controlled Substance for Resale (Schedule 1),Drug Offense,Class B Felony
+Possession of Controlled Substance for Resale (Schedule 2),Drug Offense,Class C Felony
+Possession of Controlled Substance for Resale (Schedule 3),Drug Offense,Class D Felony
+Possession of Controlled Substance for Resale (Schedule 4),Drug Offense,Class D Felony
+Possession of Controlled Substance for Resale (Schedule 5),Drug Offense,Class E Felony
+Possession of Drug Paraphernalia,Drug Offense,Class A Misdemeanor
+Possession of Firearm While Under the Influence,Alcohol Offenses,Class A Misdemeanor
+Possession of Firearm With Prior Felony Conviction,Weapons (Non-violent),Class E Felony
+Possession of Gambling Device or Record,Public Order,Class B Misdemeanor
+Possession of Glue For Unlawful Purposes,Other,Class A Misdemeanor
+Possession of Stolen Property,Misdemeanor Property,Class A Misdemeanor
+Post-Conviction Hearing,Other,N/A
+Prostitution,Public Order,Class B Misdemeanor
+Public Indecency,Other,Class B Misdemeanor
+Public Intoxication,Public Order,Class C Misdemeanor
+Rape,Violent,Class B Felony
+Rape of A Child,Violent,Class A Felony
+Reckless Burning,Misdemeanor Property,Class A Misdemeanor
+Reckless Driving,Traffic,Class B Misdemeanor
+Reckless Endangerment,Traffic,Class A Misdemeanor
+Reckless Operation of A Boat,Traffic,Class C Misdemeanor
+Removal of License Plate,Traffic,Class A Misdemeanor
+Resisting Arrest,Other,Class B Misdemeanor
+"Retaliation Against Judge, Juror, or Officer",Other,Class E Felony
+Robbery,Felony Property,Class C Felony
+"Sale, Loan, or Exhibition of Obscene Material to Minors",Other,Class A Misdemeanor
+Second Degree Murder,Homicide,Class A Felony
+Sexual Abuse of a Child,Violent,Class B Felony
+Sexual Battery,Violent,Class E Felony
+Sexual Contact With Inmate by Corrections Officer,Violent,Class E Felony
+Sexual Exploitation of a Minor,Violent,Class D Felony
+Speeding,Traffic,Class C Misdemeanor
+Stalking,Harassment,Class A Misdemeanor
+Statutory Rape,Violent,Class E Felony
+Stop Sign Violation,Traffic,Class C Misdemeanor
+Striking Highway Fixtures,Traffic,Class C Misdemeanor
+Tampering With Monitoring Device,Supervision Violation,Class A Misdemeanor
+Tampering With or Fabricating Evidence,Fraud,Class C Felony
+Theft of Identity,Fraud,Class D Felony
+Theft of Property,Misdemeanor Property,Class A Misdemeanor
+Theft of Property (Motor Vehicle),Felony Property,Class E Felony
+"Theft of Property (Over $1,000)",Felony Property,Class E Felony
+"Theft of Property (Over $10,000)",Felony Property,Class C Felony
+"Theft of Property (Over $2,500)",Felony Property,Class D Felony
+"Theft of Property (Under $1,000)",Misdemeanor Property,Class A Misdemeanor
+Theft of Services,Misdemeanor Property,Class A Misdemeanor
+"Theft of Services (Under $1,000)",Misdemeanor Property,Class A Misdemeanor
+Tinted Windows Violation,Traffic,Class C Misdemeanor
+Traffic Lane Violation,Traffic,Class C Misdemeanor
+Underage Possession of Alcohol,Alcohol Offenses,Class A Misdemeanor
+Unlawful Exposure,Harassment,Class A Misdemeanor
+Unlawful Possession of Firearm By Juvenile,Weapons (Non-violent),Class A Misdemeanor
+Unlawful Possession of Weapon,Weapons (Non-violent),Class C Misdemeanor
+Use of False Identification,Fraud,Class A Misdemeanor
+Use of Firearm In Dangerous Offense,Violent,Class A Misdemeanor
+Vandalism/Malicious Mischief,Misdemeanor Property,Class A Misdemeanor
+"Vandalism/Malicious Mischief (Over $1,000)",Felony Property,Class D Felony
+"Vandalism/Malicious Mischief (Over $10,000)",Felony Property,Class C Felony
+Attempted Possession of Controlled Substance for Resale (Schedule 2),Drug Offense,Class C Felony
+Vandalism/Malicious Mischief (Under $1000),Felony Property,Class E Felony
+Vehicular Assault,Violent,Class D Felony
+Vehicular Homicide,Homicide,Class B Felony
+Vehicular Homicide By Intoxication,Homicide,Class B Felony
+Violation of Community Supervision,Supervision Violation,Class A Misdemeanor
+Violation of Muffler Law,Traffic,Class C Misdemeanor
+Violation of Order To Vacate Structure,Public Order,Class B Misdemeanor
+Violation of Parole,Supervision Violation,N/A
+Violation of Probation,Violation of Probation,N/A
+Violation of Protection Order or Restraining Order,Harassment,Class A Misdemeanor
+Violation of Sex Offender Registration Requirements,Supervision Violation,Class E Felony
+Violation of Traffic Control Device or Signal,Traffic,Class C Misdemeanor

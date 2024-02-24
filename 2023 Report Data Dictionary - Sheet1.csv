@@ -1,0 +1,92 @@
+Column,Sheet,Data Type,Description
+DATE,Booking Records Data Table,Date,Date of arrest
+ARRESTEE_ID,Booking Records Data Table,String,Anonymized identifier for each arrestee
+CITY,Booking Records Data Table,String,City portion of arrestee home address
+STATE,Booking Records Data Table,String,State portion of arrestee home address
+ZIP_CODE,Booking Records Data Table,Integer,ZIP code portion of arrestee home address
+ZIP_CODE_4,Booking Records Data Table,Integer,ZIP code + 4 portion of arrestee home address
+ADDRESS_TYPE,Booking Records Data Table,String,Type of address (see Kaggle page)
+ADDRESS_STATUS,Booking Records Data Table,String,Validity of address (see Kaggle page)
+AGE,Booking Records Data Table,Integer,Age of arrestee
+AGENCY,Booking Records Data Table,String,Agency that made the arrest
+NUMBER_OF_CHARGES,Booking Records Data Table,Integer,Number of charges listed for each arrest
+PRIMARY_CHARGE,Booking Records Data Table,String,Charge identified as the reason for arrest (see Kaggle page)
+PRIMARY_CHARGE_TYPE,Booking Records Data Table,String,Category of each primary charge listed
+HIGHEST_CHARGE_CLASSIFICATION,Booking Records Data Table,String,Legal classification for each primary charge listed
+CHARGE_1,Booking Records Data Table,String,"Individual charges listed in original order, cleaned and formatted"
+CHARGE_2,Booking Records Data Table,String,"Individual charges listed in original order, cleaned and formatted"
+CHARGE_3,Booking Records Data Table,String,"Individual charges listed in original order, cleaned and formatted"
+CHARGE_4,Booking Records Data Table,String,"Individual charges listed in original order, cleaned and formatted"
+CHARGE_5,Booking Records Data Table,String,"Individual charges listed in original order, cleaned and formatted"
+CHARGE_6,Booking Records Data Table,String,"Individual charges listed in original order, cleaned and formatted"
+CHARGE_7,Booking Records Data Table,String,"Individual charges listed in original order, cleaned and formatted"
+CHARGE_8,Booking Records Data Table,String,"Individual charges listed in original order, cleaned and formatted"
+CHARGE_9,Booking Records Data Table,String,"Individual charges listed in original order, cleaned and formatted"
+CHARGE_10,Booking Records Data Table,String,"Individual charges listed in original order, cleaned and formatted"
+CHARGE_11,Booking Records Data Table,String,"Individual charges listed in original order, cleaned and formatted"
+CHARGE_12,Booking Records Data Table,String,"Individual charges listed in original order, cleaned and formatted"
+CHARGE_13,Booking Records Data Table,String,"Individual charges listed in original order, cleaned and formatted"
+CHARGE_14,Booking Records Data Table,String,"Individual charges listed in original order, cleaned and formatted"
+CHARGE_15,Booking Records Data Table,String,"Individual charges listed in original order, cleaned and formatted"
+CHARGE_16,Booking Records Data Table,String,"Individual charges listed in original order, cleaned and formatted"
+CHARGE_17,Booking Records Data Table,String,"Individual charges listed in original order, cleaned and formatted"
+CHARGE_18,Booking Records Data Table,String,"Individual charges listed in original order, cleaned and formatted"
+CHARGE_19,Booking Records Data Table,String,"Individual charges listed in original order, cleaned and formatted"
+CHARGE_20,Booking Records Data Table,String,"Individual charges listed in original order, cleaned and formatted"
+RAW_CHARGE_1,Booking Records Data Table,String,"Individual charges listed in original order, as they appeared in the raw data"
+RAW_CHARGE_2,Booking Records Data Table,String,"Individual charges listed in original order, as they appeared in the raw data"
+RAW_CHARGE_3,Booking Records Data Table,String,"Individual charges listed in original order, as they appeared in the raw data"
+RAW_CHARGE_4,Booking Records Data Table,String,"Individual charges listed in original order, as they appeared in the raw data"
+RAW_CHARGE_5,Booking Records Data Table,String,"Individual charges listed in original order, as they appeared in the raw data"
+RAW_CHARGE_6,Booking Records Data Table,String,"Individual charges listed in original order, as they appeared in the raw data"
+RAW_CHARGE_7,Booking Records Data Table,String,"Individual charges listed in original order, as they appeared in the raw data"
+RAW_CHARGE_8,Booking Records Data Table,String,"Individual charges listed in original order, as they appeared in the raw data"
+RAW_CHARGE_9,Booking Records Data Table,String,"Individual charges listed in original order, as they appeared in the raw data"
+RAW_CHARGE_10,Booking Records Data Table,String,"Individual charges listed in original order, as they appeared in the raw data"
+RAW_CHARGE_11,Booking Records Data Table,String,"Individual charges listed in original order, as they appeared in the raw data"
+RAW_CHARGE_12,Booking Records Data Table,String,"Individual charges listed in original order, as they appeared in the raw data"
+RAW_CHARGE_13,Booking Records Data Table,String,"Individual charges listed in original order, as they appeared in the raw data"
+RAW_CHARGE_14,Booking Records Data Table,String,"Individual charges listed in original order, as they appeared in the raw data"
+RAW_CHARGE_15,Booking Records Data Table,String,"Individual charges listed in original order, as they appeared in the raw data"
+RAW_CHARGE_16,Booking Records Data Table,String,"Individual charges listed in original order, as they appeared in the raw data"
+RAW_CHARGE_17,Booking Records Data Table,String,"Individual charges listed in original order, as they appeared in the raw data"
+RAW_CHARGE_18,Booking Records Data Table,String,"Individual charges listed in original order, as they appeared in the raw data"
+RAW_CHARGE_19,Booking Records Data Table,String,"Individual charges listed in original order, as they appeared in the raw data"
+RAW_CHARGE_20,Booking Records Data Table,String,"Individual charges listed in original order, as they appeared in the raw data"
+CHARGE_NAME,Charges Table,String,Name of each primary charge listed in Booking Data Table
+CHARGE_TYPE,Charges Table,String,"Charge category, as determined by report author"
+CHARGE_CLASSIFICATION,Charges Table,String,Legal classification of each charge
+DATE,JDI Data Table,Date,Date
+ROSTER_COUNT,JDI Data Table,Integer,Number of inmates listed on the jail roster
+PRETRIAL_COST,JDI Data Table,Decimal,Product of the percentage of inmates being held pretrial and the daily cost to the county to house the number of inmates counted on roster
+HCSO_COST,JDI Data Table,Decimal,Daily cost to the county to house the number of inmates counted on roster
+DAILY_ADMISSIONS,JDI Data Table,Integer,Number of people admitted to custody each day
+DAILY_RELEASES,JDI Data Table,Integer,Number of people released from custody each day
+los_1_day,JDI Data Table,Integer,Number of inmates as of each date that had spent this amount of time in custody.
+los_2-3_days,JDI Data Table,Integer,Number of inmates as of each date that had spent this amount of time in custody.
+los_4-7_days,JDI Data Table,Integer,Number of inmates as of each date that had spent this amount of time in custody.
+los_8-14_days,JDI Data Table,Integer,Number of inmates as of each date that had spent this amount of time in custody.
+los_15-30_days,JDI Data Table,Integer,Number of inmates as of each date that had spent this amount of time in custody.
+los_31-60_days,JDI Data Table,Integer,Number of inmates as of each date that had spent this amount of time in custody.
+los_61-90_days,JDI Data Table,Integer,Number of inmates as of each date that had spent this amount of time in custody.
+los_91-182_days,JDI Data Table,Integer,Number of inmates as of each date that had spent this amount of time in custody.
+los_183-365_days,JDI Data Table,Integer,Number of inmates as of each date that had spent this amount of time in custody.
+los_365+_days,JDI Data Table,Integer,Number of inmates as of each date that had spent this amount of time in custody.
+BOND_AGENT,2020 Sessions Court Bonds Table,String,"Bond type (O/R, Cash Bond, or specified bonding company)"
+ID,2020 Sessions Court Bonds Table,String,Anonymized combination of the name and case number associated with each arrest
+STATUS_DATE,2020 Sessions Court Bonds Table,Date,"Date of the most recent bond status change, typically the date the charge was filed"
+BOND_AMOUNT,2020 Sessions Court Bonds Table,Decimal,Total bond amount set for each arrest
+BOND_AGENT,2022 Sessions Court Bonds Table,String,"Bond type (O/R, Cash Bond, or specified bonding company)"
+ID,2022 Sessions Court Bonds Table,String,Anonymized combination of the name and case number associated with each arrest
+STATUS_DATE,2022 Sessions Court Bonds Table,Date,"Date of the most recent bond status change, typically the date the charge was filed"
+BOND_AMOUNT,2022 Sessions Court Bonds Table,Decimal,Total bond amount set for each arrest
+ZIP_CODE,ZIP Code Statistics Table,Integer,Hamilton County ZIP codes
+ARRESTS_PER_100K,ZIP Code Statistics Table,Integer,Rate of arrests for each ZIP code
+ARRESTS_PER_ZIP,ZIP Code Statistics Table,Integer,Number of residents of each ZIP code arrested over six months
+ARRESTS_AS_POPULATION PERCENTAGE,ZIP Code Statistics Table,Decimal,Arrests over six months as a percentage of each ZIP code's population
+MEAN_HOUSEHOLD_INCOME,ZIP Code Statistics Table,Decimal,Mean houshold income of each ZIP code
+POPULATION,ZIP Code Statistics Table,Integer,Population of each ZIP code
+WHITE_POPULATION,ZIP Code Statistics Table,Decimal,Percentage of population identified as white
+BLACK_POPULATION,ZIP Code Statistics Table,Decimal,Percentage of population identified as black
+OTHER_POPULATION,ZIP Code Statistics Table,Decimal,Percentage of population identified as another race
+POVERTY_RATE,ZIP Code Statistics Table,Decimal,Percentage of each ZIP code's population living below the federal poverty line
