@@ -8,7 +8,6 @@ crimeTypes_un = df['PRIMARY_CHARGE'].unique()
 print(crimeTypes_nun)
 print(crimeTypes_un)
 
-import pandas as pd
 import numpy as np
 
 
