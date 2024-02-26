@@ -23,7 +23,8 @@ plt.ylabel('Counts')
 plt.xticks(rotation=45)  
 
 
-
+plt.tight_layout()  
+plt.show()
 
 # df['DATE'] = pd.to_datetime(df['DATE'], format='%m/%d/%Y')
 
