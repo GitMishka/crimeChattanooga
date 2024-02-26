@@ -14,14 +14,14 @@ result = grouped.size().reset_index(name='counts')
 #print(result)
 
 import matplotlib.pyplot as plt
-plt.figure(figsize=(10, 6))
-plt.plot(result['date'], result['counts'], marker='o', linestyle='-')
-plt.title('Entries Over Time')
+plt.figure(figsize=(12, 7))  
+plt.bar(result['day'], result['counts'], color='royalblue')
+
+plt.title('Aggregated Data Over Time')
 plt.xlabel('Date')
-plt.ylabel('Number of Entries')
+plt.ylabel('Counts')  
 plt.xticks(rotation=45)  
-plt.tight_layout()  
-plt.show()
+
 
 
 
