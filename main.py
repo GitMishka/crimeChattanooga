@@ -8,6 +8,21 @@ df['year'] = df['DATE'].dt.year
 
 #print(df.head(100))
 
+df['DATE'] = pd.to_datetime(df['DATE']).dt.date  
+crime_counts = df.groupby(['DATE', 'CITY']).size().reset_index(name='counts')
+pivot_table = crime_counts.pivot("DATE", "CITY", "counts")
+import seaborn as sns
+import matplotlib.pyplot as plt
+
+plt.figure(figsize=(12, 8))
+sns.heatmap(pivot_table, cmap="YlGnBu", annot=False, linewidths=.5)
+plt.title('Crime Frequency Heatmap')
+plt.xlabel('CITY')
+plt.ylabel('DATE')
+plt.show()
+
+
+
 grouped = df.groupby(['year','month','day'])
 
 result = grouped.size().reset_index(name='counts')
