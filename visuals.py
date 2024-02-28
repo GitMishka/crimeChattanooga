@@ -24,3 +24,26 @@ plt.ylabel('Number of Crimes')
 plt.grid(True)
 plt.tight_layout()
 plt.show()
+
+crime_categories = {
+    'Aggravated Assault': 'Violent Crimes',
+    'Domestic Assault': 'Violent Crimes',
+    'Rape': 'Sexual Crimes',
+    'Robbery': 'Violent Crimes',
+    'Burglary': 'Property Crimes',
+    'Theft of Property (Under $1,000)': 'Property Crimes',
+    'Theft of Property (Over $1,000)': 'Property Crimes',
+    'Theft of Property (Over $2,500)': 'Property Crimes',
+    'Theft of Property (Motor Vehicle)': 'Property Crimes',
+    'Vandalism/Malicious Mischief': 'Property Crimes',
+    'Arson': 'Property Crimes',
+    'Possession of Controlled Substance': 'Drug-Related Crimes',
+    'Possession of Drug Paraphernalia': 'Drug-Related Crimes',
+    'Possession of Controlled Substance for Resale (Schedule 1)': 'Drug-Related Crimes',
+    'Possession of Controlled Substance for Resale (Schedule 2)': 'Drug-Related Crimes',
+    'Manufacturing of Meth': 'Drug-Related Crimes',
+    'Driving Under the Influence': 'Traffic and Vehicle-Related Crimes',
+    'Reckless Driving': 'Traffic and Vehicle-Related Crimes',
+    'Driving on Revoked, Suspended, or Canceled License': 'Traffic and Vehicle-Related Crimes',
+    'Speeding': 'Traffic and Vehicle-Related Crimes',
+    'Leaving the Scene of an Accident': 
