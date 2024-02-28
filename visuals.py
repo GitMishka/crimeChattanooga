@@ -125,4 +125,4 @@ def map_crime_to_category(crime):
 
 df['CRIME_CATEGORY'] = df['PRIMARY_CHARGE'].apply(map_crime_to_category)
 
-print(df)
+df.head(10).to_csv('categorized.csv')
